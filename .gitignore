@@ -13,7 +13,7 @@ env/
 
 # Data & models (large files — download separately)
 data/
-models/
+
 
 # Jupyter
 .ipynb_checkpoints/
